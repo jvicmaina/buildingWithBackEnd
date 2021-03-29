@@ -1,0 +1,19 @@
+{
+  "name": "first-backend",
+  "version": "1.0.0",
+  "description": "My first backend project ",
+  "main": "test.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Victor Mureithi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvicmaina/buildingWithBackEnd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jvicmaina/buildingWithBackEnd/issues"
+  },
+  "homepage": "https://github.com/jvicmaina/buildingWithBackEnd#readme"
+}
